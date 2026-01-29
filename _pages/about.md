@@ -26,9 +26,7 @@ Currently, my research concentrates on **benchmarking LLM decision-making** in d
 ---
 
 ## 🔥 News
-- *2025.01*: Started working on **LLM-based benchmarks for data markets and privacy externalities**.
-- *2024.09*: Began research on **economic modeling and simulation of data-sharing mechanisms** using LLM agents.
-
+- *2025.09*: Started working on **LLM-based benchmarks for data markets and privacy externalities**.
 ---
 
 ## 📝 Research Projects
@@ -52,14 +50,24 @@ Currently, my research concentrates on **benchmarking LLM decision-making** in d
 ---
 
 ## 🎖 Honors and Awards
-- *To be updated*
-
+- **2025**, Beijing Second Prize, *National Undergraduate Mathematical Contest in Modeling*
+- **2024**, Beijing Second Prize, *National Undergraduate Mathematical Contest in Modeling*
+  
 ---
 
 ## 💻 Research Experience
-- *To be updated*
+**Privacy Externalities in Data Markets with LLM Agents**
+*Sep 2025 – Present*
+- Study data-sharing decisions and inference externalities in data markets using LLM-based agents
+- Benchmark LLM behavior against rational economic baselines under different market mechanisms
+- Focus on privacy loss, market efficiency, and welfare implications in multi-agent simulations
 
----
+
+**Social Value Accounting of Renewable Energy**
+*Mar 2024 – Mar 2025*
+- Analyzed the social value and externalities of renewable energy systems
+- Conducted quantitative evaluation of environmental and economic benefits
+- Explored policy-relevant implications of renewable energy deployment
 
 ## 💬 Talks & Presentations
 - *To be updated*
@@ -67,5 +75,5 @@ Currently, my research concentrates on **benchmarking LLM decision-making** in d
 ---
 
 ## 📫 Contact
-- Email: *xuanyili@ruc.edu.cn*  
+- Email: *2023201916@ruc.edu.cn*  
 - Location: Beijing, China

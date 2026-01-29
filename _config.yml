@@ -15,13 +15,13 @@ baidu_site_verification  :
 # Site Author
 author:
   name             : "Xuanyi Li (李宣颐)"
-  avatar           : "images/android-chrome-512x512.png"   # 你可以之后换成自己的照片
+  avatar           : "images/hellokitty"   # 你可以之后换成自己的照片
   bio              : "Undergraduate student in Applied Economics & Data Science, Renmin University of China"
   location         : "Beijing, China"
   employer         : "Renmin University of China"
   pubmed           :
   googlescholar    :  # 如果之后有 Scholar，再补链接
-  email            : "xuanyili@ruc.edu.cn"   # 如果你不想公开，可以留空
+  email            : "2023201916@ruc.edu.cn"   # 如果你不想公开，可以留空
   researchgate     :
   uri              :
   bitbucket        :
@@ -30,7 +30,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :   # 建议填你的 GitHub 用户名
+  github           : "LeesangYi777" # 建议填你的 GitHub 用户名
   google_plus      :
   keybase          :
   instagram        :
